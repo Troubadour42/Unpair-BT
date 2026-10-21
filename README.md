@@ -2,13 +2,13 @@
 
 Android app that lists the phone's paired Bluetooth devices and unpairs one or many at once.
 
-**Download:** [UnpairBT-1.8.apk](https://github.com/Troubadour42/Unpair-BT/releases/download/v1.8/UnpairBT-1.8.apk)
+**Download:** [UnpairBT-1.9.apk](https://github.com/Troubadour42/Unpair-BT/releases/download/v1.9/UnpairBT-1.9.apk)
 
-Version 1.8 thins the Bluetooth mark without changing its size. The icon in the app matches the home-screen icon and lines up with the title and the paired count. The list still shows the name you set in Bluetooth settings.
+Version 1.9 adds light mode. Tap Light or Dark at the top right. The choice is remembered. The list still shows the name you set in Bluetooth settings.
 
 ## Install
 
-1. Download `UnpairBT-1.8.apk` on the phone, or download it on a computer and copy it over.
+1. Download `UnpairBT-1.9.apk` on the phone, or download it on a computer and copy it over.
 2. Open the file and install over the existing app. If Android says the package conflicts, uninstall Unpair BT first, then install this one.
 3. If Android blocks the file, allow installs from that app (Chrome or Files).
 4. If Play Protect warns you, choose More details, then Install anyway. This app is not on the Play Store.
