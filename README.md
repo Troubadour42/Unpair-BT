@@ -2,14 +2,17 @@
 
 Android app that lists the phone's paired Bluetooth devices and unpairs one or many at once.
 
-**Download:** [UnpairBT.apk](https://github.com/Troubadour42/Unpair-BT/releases/download/v1.0/UnpairBT.apk)
+**Download:** [UnpairBT-1.1.apk](https://github.com/Troubadour42/Unpair-BT/releases/download/v1.1/UnpairBT-1.1.apk)
+
+Version 1.1 shows the name you set in Bluetooth settings, not the name the device advertises.
 
 ## Install
 
-1. Download `UnpairBT.apk` on the phone, or download it on a computer and copy it over.
-2. Open the file. If Android blocks it, allow installs from that app (Chrome or Files).
-3. If Play Protect warns you, choose More details, then Install anyway. This app is not on the Play Store.
-4. Open Unpair BT and allow Nearby devices.
+1. Download `UnpairBT-1.1.apk` on the phone, or download it on a computer and copy it over.
+2. Open the file and install over the existing app. If Android says the package conflicts, uninstall Unpair BT first, then install this one.
+3. If Android blocks the file, allow installs from that app (Chrome or Files).
+4. If Play Protect warns you, choose More details, then Install anyway. This app is not on the Play Store.
+5. Open Unpair BT and allow Nearby devices.
 
 ## Use
 
